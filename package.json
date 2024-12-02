@@ -1,0 +1,14 @@
+{
+  "name": "60d6a8b862302eba",
+  "main": "60d6a8b862302eba@1117.js",
+  "version": "1117.0.0",
+  "homepage": "https://observablehq.com/d/60d6a8b862302eba",
+  "author": {
+    "name": "VT CS 5764 Information Visualization",
+    "url": "https://observablehq.com/@vt-cs-5764-information-visualization"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
